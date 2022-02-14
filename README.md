@@ -1,4 +1,8 @@
-# my-portfolio
+![Portifolio](https://user-images.githubusercontent.com/39699305/153965342-70d7668e-571f-42f2-99e2-0ebe30c558b6.png)
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fernandofatech/devportfolio)
+
+# Portfolio
 
 Fernando's developer portfolio website
 
@@ -15,3 +19,32 @@ www.linkedin.com/in/fernando-francisco-azevedo
 Also, you can use this Project as you wish, could it be to study, make improvements or even earn money with it.
 
 It's free!
+
+
+```
+MIT License
+
+Copyright (c) 2021 Fernando Azevedo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+
+
+If you like it, do fork 🍴 and star ⭐
