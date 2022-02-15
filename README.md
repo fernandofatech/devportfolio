@@ -2,6 +2,13 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fernandofatech/devportfolio)
 
+![Last Commit](https://img.shields.io/github/last-commit/fernandofatech/devportfolio?color=%23abd100&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/fernandofatech/devportfolio?color=%23ff47b6&style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues-raw/fernandofatech/devportfolio?color=%239e6eff&style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/fernandofatech/devportfolio?color=%2302b09f&style=for-the-badge)
+
+
+
 # Portfolio
 
 Fernando's developer portfolio website
